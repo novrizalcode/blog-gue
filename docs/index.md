@@ -1,8 +1,15 @@
 <script setup>
   import Home from './components/Home.vue'
   import ArticleCard from './components/ArticleCard.vue'
+
+  import data from '../data.json'
 </script>
 
-<Home name="Novrizal" subtitle="Welcome to my blog. This one is built with Vitepress and Vue.js. Vitepress is super cool." />
+<Home name="Novrizal" subtitle="Selamat datang di blog saya. Blog ini dibangun dengan Vitepress dan Vue.js. Vitepress sangat keren. Saya adalah seorang programmer dengan minat yang mendalam dalam pengembangan perangkat lunak. Saya telah bekerja dalam berbagai proyek perangkat lunak dan mengejar pengetahuan teknis untuk terus memperbaiki keterampilan saya dalam pemrograman. "/>
 
-<ArticleCard title="Article 1" excerpt="Lorem i" image="https://images.unsplash.com/photo-1664663751485-c58e9276ccce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1167&q=80" author="John Doe" href="/articles/article1" date="2022-08-01" />
+<div v-for="(article, index) in data" :key="index">
+<ArticleCard :title="article.title"
+:excerpt="article.excerpt" :image="article.
+image" :author="article.Author" :href="article.
+path" :date="article.Updated" :content="article?.content" />
+</div>

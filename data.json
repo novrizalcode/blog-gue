@@ -1,1 +1,103 @@
-[{"Author":"Nemo","Updated":"2022-06-01T00:00:00.000Z","image":"https://images.unsplash.com/photo-1664575198263-269a022d6e14?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80","title":"Si pace ad caput","path":"articles/article1.html","excerpt":"lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"},{"Author":"Author 2","Updated":"2022-06-01T00:00:00.000Z","image":"https://images.unsplash.com/photo-1665129059445-b31f47edf843?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80","title":"Maiorque sermonibus nectare","path":"articles/article2.html","excerpt":"lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"}]
+[
+  {
+    "id": 1,
+    "Author": "Nemo",
+    "Updated": "2022-06-01T00:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1664575198263-269a022d6e14?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "title": "Si pace ad caput",
+    "isi":"Keajaiban Taman Nasional",
+    "path": "articles/article.html?id=1",
+    "excerpt": "Taman nasional adalah tempat di mana kita dapat menikmati keindahan alam yang luar biasa. Pohon-pohon hijau, sungai-sungai yang mengalir deras, dan gunung-gunung yang menjulang tinggi adalah beberapa pemandangan yang akan Anda temui di sini. Tidak ada yang bisa menandingi keindahan alam ini. Tidak hanya itu, di taman nasional, Anda dapat menemukan berbagai jenis hewan liar yang hidup bebas. Ini adalah tempat yang sempurna untuk melihat keanekaragaman hayati yang luar biasa."
+  },
+  {
+    "id": 2,
+    "Author": "Author 2",
+    "Updated": "2022-06-01T00:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1665129059445-b31f47edf843?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1pYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "title": "Maiorque sermonibus nectare",
+    "isi": "Bersatu Alam",
+    "path": "articles/article.html?id=2",
+    "excerpt": "Kita sebagai manusia hidup di planet Bumi yang indah ini, sebuah tempat yang penuh dengan keajaiban alam yang menakjubkan. Hubungan antara manusia dan alam telah ada sejak awal peradaban manusia. Alam memberikan kita sumber daya, keindahan, dan kehidupan itu sendiri. Oleh karena itu, penting bagi kita untuk bersatu dengan alam dan menjaga keseimbangan yang ada."
+  },
+  {
+    "id": 3,
+    "Author": "Penulis 3",
+    "Updated": "2022-06-01T00:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1695694751841-408db1526e11?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1pYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "title": "Judul Artikel 3",
+    "isi": "Pentingnya Menjaga kebersihan",
+    "path": "articles/article.html?id=3",
+    "content": "Alam semesta adalah ciptaan yang indah. Mari kita menjelajahinya bersama.",
+    "excerpt": "Kebersihan adalah aspek penting dalam kehidupan kita yang seringkali diabaikan. Namun, pentingnya menjaga kebersihan tidak boleh diabaikan. Kebersihan bukan hanya tentang kebersihan fisik, tetapi juga tentang kesehatan, kualitas hidup, dan lingkungan. Dalam artikel ini, kita akan menjelaskan mengapa menjaga kebersihan sangat penting."
+  },
+  {
+    "id": 4,
+    "Author": "Penulis 4",
+    "Updated": "2022-06-01T00:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1682686579976-879b74d6d7ea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1pYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "title": "Judul Artikel 4",
+    "isi": "Cintai Kebersihan",
+    "path": "articles/article.html?id=4",
+    "excerpt": "Menjaga kebersihan juga memiliki dampak positif pada lingkungan. Ketika kita membuang sampah dengan benar, menjaga kebersihan di tempat-tempat umum, dan merawat lingkungan, kita membantu mencegah polusi lingkungan dan kerusakan alam. Ini berkontribusi pada lingkungan yang lebih bersih, sehat, dan lestari."
+  },
+  {
+    "id": 5,
+    "Author": "Penulis 5",
+    "Updated": "2022-06-01T00:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1682685797828-d3b2561deef4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1pYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "title": "Judul Artikel 5",
+    "isi": "Jaga Alam Sekitar",
+    "path": "articles/article.html?id=5",
+    "excerpt": "Bumi adalah satu-satunya rumah yang kita miliki, dan kita memiliki tanggung jawab untuk menjaga alam sekitar. Alam adalah sumber kehidupan, keindahan, dan keajaiban yang tak ternilai. Dalam artikel ini, kita akan membahas mengapa kita harus menjaga alam sekitar dan peran kita dalam melestarikannya."
+  },
+  {
+    "id": 6,
+    "Author": "Penulis 6",
+    "Updated": "2022-06-01T00:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1698933485898-f56250a62950?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1pYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "title": "Judul Artikel 6",
+    "isi": "Alam Indonesia",
+    "path": "articles/article.html?id=6",
+    "excerpt": "Indonesia adalah sebuah negara yang diberkahi dengan keindahan dan keanekaragaman alam yang luar biasa. Dikenal sebagai salah satu surga bagi para pecinta alam, Indonesia memiliki segalanya, mulai dari hutan hujan tropis yang lebat hingga pantai-pantai eksotis, gunung berapi yang megah, dan keanekaragaman hayati yang menakjubkan. Dalam artikel ini, kita akan menjelajahi kekayaan alam Indonesia Hutan Hujan Tropis"
+  },
+  {
+    "id":7,
+    "Author": "Penulis 7",
+    "Updated": "2022-06-01T00:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1698966378323-51d7982dfd96?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1pYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "title": "Judul Artikel 7",
+    "isi": "Wisata Indonesia",
+    "path": "articles/article.html?id=7",
+    "excerpt": "Indonesia adalah negara yang menawarkan berbagai pesona wisata yang luar biasa. Keindahan alam, kekayaan budaya, dan kuliner yang lezat membuat Indonesia menjadi salah satu destinasi wisata terbaik di dunia. Dengan berbagai pilihan destinasi wisata, setiap pengunjung dapat menemukan sesuatu yang sesuai dengan minat dan keinginan mereka. Saat menjelajahi pesona wisata Indonesia, kita juga memiliki tanggung jawab untuk menjaga lingkungan dan budaya. Dengan menjaga dan melestarikan warisan alam dan budaya Indonesia, kita dapat memastikan bahwa generasi mendatang juga dapat menikmati pesona wisata yang luar biasa ini."
+  },
+  {
+    "id": 8,
+    "Author": "Penulis 8",
+    "Updated": "2022-06-01T00:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1693753310466-bd53501ba2a9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1pYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "title": "Judul Artikel 8",
+    "isi": "Makanan khas Indonesia",
+    "path": "articles/article.html?id=8",
+    "excerpt": "Indonesia adalah surganya para pecinta kuliner. Dengan beragam budaya dan keanekaragaman etnis, Indonesia menawarkan berbagai makanan khas yang memikat lidah dan perut. Dalam artikel ini, kita akan menjelajahi pesona kuliner Indonesia yang lezat."
+  },
+  {
+    "id": 9,
+    "Author": "Penulis 9",
+    "Updated": "2022-06-01T00:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1695982206757-a9643cb6cee5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1pYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "title": "Judul Artikel 9",
+    "isi": "Baju Adat Nasional",
+    "path": "articles/article.html?id=9",
+    "excerpt": "Indonesia adalah negara yang kaya akan keanekaragaman budaya, dan salah satu cara terbaik untuk merasakan kekayaan tersebut adalah melalui beragam baju adat nasional yang ada di seluruh nusantara. Baju adat Indonesia tidak hanya mencerminkan keindahan estetika, tetapi juga merupakan cerminan dari sejarah, budaya, dan keanekaragaman etnis yang ada di negara ini. Sejak zaman dulu, baju adat telah menjadi bagian penting dari kehidupan sehari-hari masyarakat Indonesia. Masing-masing etnis dan daerah memiliki gaya baju adat yang unik, yang sering kali mencerminkan lingkungan alam, sejarah, dan tradisi mereka sendiri. Berikut beberapa contoh baju adat nasional yang memikat dari berbagai daerah di Indonesia"
+  },
+  {
+    "id": 10,
+    "Author": "Penulis 10",
+    "Updated": "2022-06-01T00:00:00.000Z",
+    "image": "https://images.unsplash.com/photo-1697603309921-91e3277fd05f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1pYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "title": "Judul Artikel 10",
+    "isi": "Pulau indonesia",
+    "path": "articles/article.html?id=10",
+    "excerpt": "Indonesia, sebagai negara kepulauan terbesar di dunia, memiliki lebih dari 17.000 pulau yang tersebar di seluruh arhipelago nusantara. Pulau-pulau Indonesia menawarkan keindahan alam yang menakjubkan, keanekaragaman budaya, dan peluang petualangan yang tak terbatas. Dalam artikel ini, kita akan menjelajahi beberapa pulau paling menakjubkan dan menarik di Indonesia."
+  }
+]

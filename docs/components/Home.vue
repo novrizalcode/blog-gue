@@ -3,9 +3,9 @@
         <div class="home-body">
             <div class="container">
                 <h1 class="title">Hey, I'm {{ name || "Novrizal" }}.</h1>
-                <h2 class="subtitle">
+                <p class="subtitle">
                     {{ subtitle }}
-                </h2>
+                </p>
             </div>
         </div>
     </div>
@@ -27,7 +27,7 @@ export default {
 </script>
 
 <style>
-h2.subtitle {
+p.subtitle {
     font-size: 1.2rem;
     border-top: none;
 }
